@@ -7,7 +7,7 @@
 [![WCAG 2.1 AA](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-green)](https://www.w3.org/TR/WCAG21/)
 [![Green IT](https://img.shields.io/badge/Sustainability-Green%20IT-brightgreen)](#-sustentabilidade-e-green-it)
 [![ESG Aligned](https://img.shields.io/badge/Governance-ESG%20Compliant-blue)](#-modelo-de-negocio-e-esg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/n8nalexandreautomacao/-Hub-de-Inclus-o-e-Capacita-o-Digital-/blob/main/LICENCE)
 ---
 
 ## 📌 Sobre o Projeto
