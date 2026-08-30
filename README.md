@@ -8,7 +8,6 @@
 [![Green IT](https://img.shields.io/badge/Sustainability-Green%20IT-brightgreen)](#-sustentabilidade-e-green-it)
 [![ESG Aligned](https://img.shields.io/badge/Governance-ESG%20Compliant-blue)](#-modelo-de-negocio-e-esg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://opensource.org/licenses/MIT]
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 
 ## 📌 Sobre o Projeto
