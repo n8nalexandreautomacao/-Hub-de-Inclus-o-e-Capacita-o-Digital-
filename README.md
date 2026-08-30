@@ -7,7 +7,7 @@
 [![WCAG 2.1 AA](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-green)](https://www.w3.org/TR/WCAG21/)
 [![Green IT](https://img.shields.io/badge/Sustainability-Green%20IT-brightgreen)](#-sustentabilidade-e-green-it)
 [![ESG Aligned](https://img.shields.io/badge/Governance-ESG%20Compliant-blue)](#-modelo-de-negocio-e-esg)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 
 ## 📌 Sobre o Projeto
@@ -65,5 +65,5 @@ Contribuições da comunidade e de desenvolvedores voluntários são super bem-v
 ---
 
 ## 📄 Licença
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Este projeto é desenvolvido sob a licença **MIT** — consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
