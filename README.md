@@ -65,5 +65,5 @@ Contribuições da comunidade e de desenvolvedores voluntários são super bem-v
 ---
 
 ## 📄 Licença
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Este projeto é desenvolvido sob a licença **MIT** — consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
